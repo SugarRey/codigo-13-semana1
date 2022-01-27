@@ -38,3 +38,19 @@ git pull origin main
 git clone url_de_github.com
 ```
 este comando me crear por default una carpeta con el nombre del repositorio.
+
+```
+git branch
+```
+-Sirve para poder listar los branch que tengo localmente y me dice en cual me encuentro actualmente.
+
+```
+git chekout -b nombre_de_branch
+```
+- Sirve para crear un branch nuevo y poder trabajar en el
+
+```
+git chekout nombre_de_branch
+```
+- Sirve para poder moverse entre ramas
+- si el ckeckout no tiene el -b solo es para moverse
