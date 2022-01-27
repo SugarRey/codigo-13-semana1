@@ -37,12 +37,12 @@ git pull origin main
 ```
 git clone url_de_github.com
 ```
-este comando me crear por default una carpeta con el nombre del repositorio.
+- este comando me crear por default una carpeta con el nombre del repositorio.
 
 ```
 git branch
 ```
--Sirve para poder listar los branch que tengo localmente y me dice en cual me encuentro actualmente.
+- Sirve para poder listar los branch que tengo localmente y me dice en cual me encuentro actualmente.
 
 ```
 git chekout -b nombre_de_branch
