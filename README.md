@@ -54,3 +54,7 @@ git chekout nombre_de_branch
 ```
 - Sirve para poder moverse entre ramas
 - si el ckeckout no tiene el -b solo es para moverse
+
+```
+git merge
+```
