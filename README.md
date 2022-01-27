@@ -14,6 +14,7 @@ git status
 - Poder listar y ver si los archivos estan listo para subir
 - :eye: en caso los archivos no esten listos se veran de color rojo y cuando lo esten seran de color verde
 
+
 ```
 git add .
 git add nombre_de_archivo
@@ -28,6 +29,12 @@ git push origin main
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
 
 ```
+
 git pull origin main
 ```
 - Sirve para poder descargar los cambios de nuestro repositorio en la ube, en este caso github.
+
+```
+git clone url_de_github.com
+```
+este comando me crear por default una carpeta con el nombre del repositorio.
